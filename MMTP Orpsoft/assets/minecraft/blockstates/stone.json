@@ -1,0 +1,18 @@
+{
+    "__comment": "Orpsoft 2020",
+    "variants": {
+        "": [
+            { "model": "block/stone", "weight": 15 },
+            { "model": "block/stone1", "weight": 15 },
+            { "model": "block/stone2", "weight": 14.25 },
+            { "model": "block/stone3", "weight": 14.25 },
+            { "model": "block/stone4", "weight": 2.5 },
+            { "model": "block/stone5", "weight": 14.25 },
+            { "model": "block/stone6", "weight": 14.25 },
+            { "model": "block/stone7", "weight": 2.5 },
+            { "model": "block/stone8", "weight": 2.5 },
+            { "model": "block/stone9", "weight": 2.5 },
+            { "model": "block/stone10", "weight": 1 }
+        ]
+    }
+}

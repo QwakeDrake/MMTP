@@ -1,0 +1,7 @@
+{
+    "__comment": "Orpsoft 2020",
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "block/stone10"
+    }
+}

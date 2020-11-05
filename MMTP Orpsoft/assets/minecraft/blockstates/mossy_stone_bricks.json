@@ -1,0 +1,11 @@
+{
+    "__comment": "Orpsoft 2020",
+    "variants": {
+        "": [
+            { "model": "block/mossy_stone_bricks", "weight": 25 },
+			{ "model": "block/mossy_stone_bricks1", "weight": 25 },
+			{ "model": "block/mossy_stone_bricks2", "weight": 25 },
+			{ "model": "block/mossy_stone_bricks3", "weight": 25 }
+        ]
+    }
+}
