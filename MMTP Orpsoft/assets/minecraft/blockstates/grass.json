@@ -1,7 +1,13 @@
 {
-  "variants": {
-    "": {
-      "model": "minecraft:block/grass"
+    "__comment": "Orpsoft 2020",
+    "variants": {
+        "": [
+            { "model": "block/grass", "weight": 40 },
+			{ "model": "block/grass1", "weight": 20 },
+			{ "model": "block/grass2", "weight": 10 },
+			{ "model": "block/grass3", "weight": 10 },
+			{ "model": "block/grass4", "weight": 10 },
+			{ "model": "block/grass5", "weight": 10 }
+        ]
     }
-  }
 }
